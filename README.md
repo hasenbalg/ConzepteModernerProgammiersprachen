@@ -2,7 +2,7 @@
 Hausaufgaben
 
 ## 1.3
-`npm install -g npm`
+`npm install npm -g`
 
 `npm install -g typescript`
 
