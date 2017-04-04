@@ -1,4 +1,4 @@
-# ConzepteModernerProgammiersprachen
+# KonzepteModernerProgammiersprachen
 Hausaufgaben
 
 ## 1.3
