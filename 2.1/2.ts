@@ -1,16 +1,14 @@
-// Implementieren Sie eine Funktion in TypeScript, 
-function huhu() {
+// Implementieren Sie eine Funktion in TypeScript,
+function kk() {
   // die ein leeres Array von Zahlen erzeugt
-    const array: number[] = [];
-  
+  const array:Array<number> = [];
+
   //und anschließend ein Element
   const element: number = 0;
 
   // zu diesem Array hinzufugt.
-  const array2 = array.push(element);
-  
-  return array2.length;
+  array.push(element);
 }
-console.log(huhu());
+console.log(kk());
 
 // Verwenden Sie dabei nur nicht-ver ¨ ¨anderbare Variablen.
